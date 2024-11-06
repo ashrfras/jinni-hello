@@ -1,0 +1,15 @@
+ئعلن دفقمكتوب.ئغلق () ك وعد فارغ:
+	يختصر close؛
+تم
+ئعلن دفقمكتوب.ردكاتب () ك WritableStreamDefaultWriter:
+	يختصر getWriter؛
+تم
+ئعلن دفقمكتوب.ئجهض (نصية سبب) ك وعد نصية:
+	يختصر abort؛
+تم
+ئعلن دفقمكتوب ():
+	يختصر WritableStream؛
+تم
+ئورد WritableStream من '//'؛
+ئورد WritableStreamDefaultWriter من '//'؛
+ئورد نصية من ئساسية.نصية؛
